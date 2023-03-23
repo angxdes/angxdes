@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2> Hi, I'm Angel Ceron! <img src="https://media1.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif?cid=ecf05e475hazfgyfltjbnlx7d7fev8ej0qbxd930readhbcx&rid=giphy.gif&ct=g" width="40">
+<p><em>Student at <a href="https://www.acatlan.unam.mx">FES Acatlan</a><img src="https://media2.giphy.com/media/ZWU2UhH77Qj9xKR2BS/giphy.gif?cid=ecf05e47y0weerdvhy5yvqdigmtunbfbztbw5s8xt7qv50eh&rid=giphy.gif&ct=g" width="30"></br>
 
-<!--
-**angxdes/angxdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: thaianebraga](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-ceron-ramos-94a88918a/)
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Python, SQL, HTML, CSS, JavaScript],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on python and SQL"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
